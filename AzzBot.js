@@ -29,9 +29,9 @@ let _cmdUser = JSON.parse(fs.readFileSync('./database/commandUser.json'));
 let setting = JSON.parse(fs.readFileSync('./apikey.json'))
 
 //limit
-limitawal = '10'
-botname = 'AzzBot•MD'
-wm = '© AzzBot - MD'
+limitawal = '50'
+botname = 'RzBot-MD'
+wm = '© RzBot-MD'
 
 // read database
 let tebaklagu = db.data.game.tebaklagu = []
